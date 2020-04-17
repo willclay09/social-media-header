@@ -1,0 +1,159 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: lightslategray;
+    }
+.header{
+    width: 850px;
+    height: 425px;
+    position: relative;
+    top: 100px;
+    left: 400px;
+    background-color:rgb(50, 22, 128);
+    border: solid black 1px;
+    vertical-align: middle;
+}
+.header h1{
+    color: white;
+    position: relative;
+    top: 280px;
+    left: 220px;
+}
+.header h3{
+    color: white;
+    position: relative;
+    top: 275px;
+    left: 220px;
+}
+.profile-button{
+    background-color: white;
+    border: black solid 1px;
+    text-align: center;
+    position: relative;
+    top: 275px;
+   height: 60px;
+}
+#profile-button{
+    width: 70px;
+    height: 57px;
+    border: none;
+    font-weight: bold;
+}
+.header-image{
+    background-color: rgb(50, 22, 128);
+    border: white solid 1px;
+    width: 175px;
+    height: 180px;
+    position: relative;
+    top: 80px;
+    left: 20px;
+}
+.message-heading{
+    position: relative;
+    background-color: white;
+    float: right;
+    height: 35px;
+    top: -20px;
+}
+#message-heading{
+    height: 35px;
+    border: none;
+}
+#message-heading-1{
+    height: 35px;
+    border: none;
+}
+.like{
+    position: relative;
+    left: 625px;
+    top: -20px;
+}
+#like{
+    height: 35px;
+    width: 50px;
+}
+.row1{
+    padding-right: 5px;
+}
+.column1{
+    position: relative;
+    width: 328px;
+    height: 150px;
+    border:black solid 1px;
+    background-color: white;
+    left: 400px;
+    top: 135px;
+}
+.column2{
+    position: relative;
+    background-color: white;
+    width: 328px;
+    height: 125px;
+    border: solid black 1px;
+    left: 400px;
+    top: 140px;
+}
+.column3{
+    position: relative;
+    background-color: white;
+    width: 328px;
+    height: 300px;
+    border: solid black 1px;
+    left: 400px;
+    top: 145px;
+}
+.column4{
+    position: relative;
+    background-color: white;
+    width: 328px;
+    height: 300px;
+    border: solid black 1px;
+    left: 400px;
+    top: 150px;
+}
+.row2{
+    padding-left: 5px;
+}
+.column-1{
+    position: relative;
+    background-color: white;
+    width: 512px;
+    height: 250px;
+    border: solid black 1px;
+    top: -740px;
+    left: 732px;
+}
+.column-2{
+    position: relative;
+    background-color: white;
+    width: 512px;
+    height: 175px;
+    border: solid black 1px;
+    top: -735px;
+    left: 732px;
+}
+.column-3{
+    position: relative;
+    background-color: white;
+    width: 512px;
+    height: 250px;
+    border: solid black 1px;
+    left: 732px;
+    top:-730px;
+}
+.column-4{
+    position: relative;
+    background-color: white;
+    width: 512px;
+    height: 175px;
+    border: solid black 1px;
+    left: 732px;
+    top: -725px;
+}
+.column1 h3{
+    text-align: center;
+}
+.column-2 h3{
+    text-align: center;
+}
